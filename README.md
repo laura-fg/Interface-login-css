@@ -1,5 +1,5 @@
-# School-bus
-Plataforma web de transporte escolar
+
+Interface de login para Plataforma
 
 *Fase 1: Criação do layout de login.
 
